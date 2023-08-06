@@ -1,0 +1,20 @@
+2023-08-06 08:08:50.194014 - Initialized conversion of CBT872
+2023-08-06 08:08:50.400143 - Received CBT.V505.FILE872.PDS from FILE872.XMI 
+2023-08-06 08:08:50.402600 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:08:50.403559 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:08:50.404490 - Found @COMPILE.jcl (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/@COMPILE
+2023-08-06 08:08:50.405403 - Found @CPARM.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/@CPARM
+2023-08-06 08:08:50.406519 - Found @FILE872.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/@FILE872
+2023-08-06 08:08:50.407442 - Found @LICENSE.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/@LICENSE
+2023-08-06 08:08:50.408314 - Found @README.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/@README
+2023-08-06 08:08:50.409257 - Found BLOCKSOR.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/BLOCKSOR
+2023-08-06 08:08:50.409268 - Found BZIP2TGZ.x-compress containing application/x-compress, moved to PDS/BZIP2TGZ
+2023-08-06 08:08:50.411209 - Found BZLIB.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/BZLIB
+2023-08-06 08:08:50.412092 - Found BZLIBH.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/BZLIBH
+2023-08-06 08:08:50.412997 - Found BZLIBPRH.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/BZLIBPRH
+2023-08-06 08:08:50.413865 - Found BZ2LIB.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/BZ2LIB
+2023-08-06 08:08:50.414756 - Found COMPRESS.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/COMPRESS
+2023-08-06 08:08:50.415644 - Found CRCTABLE.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/CRCTABLE
+2023-08-06 08:08:50.416526 - Found DECOMPRE.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/DECOMPRE
+2023-08-06 08:08:50.417433 - Found HUFFMAN.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/HUFFMAN
+2023-08-06 08:08:50.418344 - Found RANDTABL.txt (text/plain) in CBT.V505.FILE872.PDS, moved to PDS/RANDTABL
